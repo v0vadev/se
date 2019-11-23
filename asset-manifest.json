@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/se/static/css/main.981f7211.chunk.css",
+    "main.js": "/se/static/js/main.fde82133.chunk.js",
+    "main.js.map": "/se/static/js/main.fde82133.chunk.js.map",
+    "runtime-main.js": "/se/static/js/runtime-main.f5d983cd.js",
+    "runtime-main.js.map": "/se/static/js/runtime-main.f5d983cd.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/se/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.b3894d9b.chunk.js": "/se/static/js/2.b3894d9b.chunk.js",
+    "static/js/2.b3894d9b.chunk.js.map": "/se/static/js/2.b3894d9b.chunk.js.map",
+    "index.html": "/se/index.html",
+    "precache-manifest.5d01c245ff75f8d38676baeb8f63572a.js": "/se/precache-manifest.5d01c245ff75f8d38676baeb8f63572a.js",
+    "service-worker.js": "/se/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/se/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/se/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/se/static/media/persik.4e1ec840.png"
+  }
+}
